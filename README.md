@@ -15,7 +15,7 @@
 
 
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I Can Juggle With My Eyes Closed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
