@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C & PYTHON & JAVA**
 
-- 📫 How to reach me **ghoshsoumyaneel@gmail.com**
+
 
 - ⚡ Fun fact **I think I'm funny**
 
