@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyaa2001" alt="soumyaa2001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ghoshsoumyaneel" target="blank"><img src="https://img.shields.io/twitter/follow/ghoshsoumyaneel?logo=twitter&style=for-the-badge" alt="ghoshsoumyaneel" /></a> </p>
-
 - 🔭 I’m currently working on **Spamvertiser**
 
 - 🌱 I’m currently learning **Java & Django**
