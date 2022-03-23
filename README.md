@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Spamvertiser**
 
-- 🌱 I’m currently learning **Java & Django**
+- 🌱 I’m currently learning **Java & DBMS**
 
 - 🤝 I’m looking for help with **Frame Works & Java Script**
 
-- 💬 Ask me about **C & PYTHON & JAVA**
+- 💬 Ask me about **C & PYTHON & JAVA & DBMS**
 
 
 
