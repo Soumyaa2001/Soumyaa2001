@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyaa2001" alt="soumyaa2001" /></a> </p>
 
-- 🔭 I’m currently working on **Spamvertiser**
+- 🔭 I’m currently working on **ANDROID APPLICATION DEVELOPMENT**
 
-- 🌱 I’m currently learning **Java & DBMS**
+- 🌱 I’m currently learning **ML**
+
+- 🌱I currently learned **DBMS**
 
 - 🤝 I’m looking for help with **Frame Works & Java Script**
 
-- 💬 Ask me about **C & PYTHON & JAVA & DBMS**
+- 💬 Ask me about **C & PYTHON & JAVA & DBMS & ML & ANDROID APPLICATION DEVELOPMENT**
 
 
 
