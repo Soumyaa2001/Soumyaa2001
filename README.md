@@ -22,7 +22,7 @@
 
 
 
-- ⚡ Fun fact **My code is like a well-organized bookshelf – until someone touches it.**
+- ⚡ Fun fact   **My code is like a well-organized bookshelf – until someone touches it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
