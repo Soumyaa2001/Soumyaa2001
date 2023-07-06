@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ghoshsoumyaneel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghoshsoumyaneel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumyaneel ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaneel ghosh" height="30" width="40" /></a>
+<a href="https://twitter.com/ghoshsoumyaneel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghoshsoumyaneel" height="30" width="40" /><//a>
+<a href="[https://linkedin.com/in/soumyaneel ghosh](https://www.linkedin.com/in/soumyaneel-ghosh-5113501aa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyaneel ghosh" height="30" width="40" /></a>
 <a href="https://instagram.com/soumyaneel ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaneel ghosh" height="30" width="40" /></a>
 <a href="https://medium.com/@alluhaan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alluhaan28" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soumyaneel ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumyaneel ghosh" height="30" width="40" /></a>
