@@ -14,9 +14,9 @@
 
 - 👨‍💻 I’m currently learning **ETHICAL HACKING**
 
-- 🌱I currently learned **MOBILE COMPUTING and CRYPTOGRAPHY**
+- 🌱I recently learned **MOBILE COMPUTING and CRYPTOGRAPHY**
 
-- 🤝 I’m looking for help with **BUG HUNTING**
+- 🤝 I’m looking for help with **BUG-HUNTING**
 
 - 💬 Ask me about **C, PYTHON, JAVA, DBMS, ML, MOBILE COMPUTING, CRYPTOGRAPHY, ANDROID APPLICATION DEVELOPMENT, LINUX, ETHICAL HACKING**
 
