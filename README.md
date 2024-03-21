@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Soumyaneel+Ghosh;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate coder from India, Computer Science Student, Always Willing To Learn!</h3>
+<h3 align="center">A passionate coder from India, 👨‍💻 Computer Science Student,💻 Always eager to learn and explore new technologies 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaa2001&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaa2001" /> </p>
 
