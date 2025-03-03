@@ -54,6 +54,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyaa2001&show_icons=true&locale=en" alt="soumyaa2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyaa2001&" alt="soumyaa2001" /></p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumyaa2001)](https://git.io/streak-stats)
 <h3 align="center">Thanks for visiting my profile!😍</h3>
