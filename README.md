@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyaa2001" alt="soumyaa2001" /></a> </p>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT**
+- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT**
 
-- 👨‍💻 I’m currently learning **WEB DEVELOPMENT**
+- 👨‍💻 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
-- 🌱I recently learned **MOBILE COMPUTING and CRYPTOGRAPHY and ANDROID APPLICATION DEVELOPMENT**
+- 🌱I recently learned **JAVA and SQL and WEB TECHNOLOGIES and SDLC**
 
 - 🤝 I’m looking for help with **WEB DEVELOPMENT**
 
-- 💬 Ask me about **C, PYTHON, JAVA, DBMS, ML, MOBILE COMPUTING, CRYPTOGRAPHY, ANDROID APPLICATION DEVELOPMENT, LINUX, ETHICAL HACKING, HTML, CSS**
+- 💬 Ask me about **JAVA, DBMS, ML, MOBILE COMPUTING, CRYPTOGRAPHY, ANDROID APPLICATION DEVELOPMENT, LINUX, ETHICAL HACKING, HTML, CSS, JAVA SCRIPT**
 
 
 
