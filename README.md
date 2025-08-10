@@ -27,7 +27,6 @@
 ---
 
 ## 🚀 About Me
-<img align="right" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="220" alt="Java coding gif">
 
 - 🎓 **M.Tech in Computer Science**  
 - 🔭 Working on **Full Stack Web Development** & **Cybersecurity Labs**  
