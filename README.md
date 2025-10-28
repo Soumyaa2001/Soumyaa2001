@@ -18,9 +18,9 @@
 <!-- Contact Icons (Top) -->
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/GhoshSoumyaneel"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.linkedin.com/in/soumyaneel-ghosh-5113501aa/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://instagram.com/soumyaneelghosh"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://twitter.com/GhoshSoumyaneel"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://medium.com/@alluhaan28"><img src="https://skillicons.dev/icons?i=medium" /></a>
   <a href="https://youtube.com/@soumyaneelghosh4541"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
